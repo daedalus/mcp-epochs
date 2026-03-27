@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = {text = "MIT"}
 authors = [
-    {name = "Daniel Clavijo", email = "dclavijo@example.com"}
+    {name = "Dario Clavijo", email = "clavijodario@gmail.com"}
 ]
 dependencies = ["mcp>=1.0.0"]
 
@@ -37,9 +37,9 @@ all = ["mcp-epochs[dev,test,lint]"]
 mcp-epochs = "mcp_epochs.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/dclavijo/mcp-epochs"
-Repository = "https://github.com/dclavijo/mcp-epochs"
-Issues = "https://github.com/dclavijo/mcp-epochs/issues"
+Homepage = "https://github.com/daedalus/mcp-epochs"
+Repository = "https://github.com/daedalus/mcp-epochs"
+Issues = "https://github.com/daedalus/mcp-epochs/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/mcp_epochs"]

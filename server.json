@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.dclavijo/mcp-epochs",
+  "name": "io.github.daedalus/mcp-epochs",
   "description": "MCP tool that provides current Unix timestamp",
   "repository": {
-    "url": "https://github.com/dclavijo/mcp-epochs",
+    "url": "https://github.com/daedalus/mcp-epochs",
     "source": "github"
   },
   "version": "0.1.0",
